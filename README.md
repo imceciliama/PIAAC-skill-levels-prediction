@@ -23,5 +23,5 @@ understand how adults adapt their strategies to solve the digital tasks and what
 information we should include in measuring adults’ problem-solving skills in future studies. 
 
 Therefore, our task is to use variables in the data file, or create new variables, apply 
-supervised machine learning methods, to make a prediction on the problem- solving skill 
+supervised machine learning methods, to make a prediction on the problem-solving skill 
 levels (PS_class) as accurate as possible. 
